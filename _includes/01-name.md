@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# boom-shaka-laka, hello, world! <h1> This my second course in learning of GitHub!
